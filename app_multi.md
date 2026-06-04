@@ -1,9 +1,12 @@
 Inicio  
-![][image1]  
+<img width="418" height="855" alt="Captura de pantalla 2026-06-03 234628" src="https://github.com/user-attachments/assets/6905a851-e021-4a3a-aac9-647a93414229" />
+
 Actividades  
-![][image2]  
+<img width="421" height="856" alt="Captura de pantalla 2026-06-03 234609" src="https://github.com/user-attachments/assets/f19a6703-e772-449e-bf22-c9b330799f9a" />
+
 Avisos  
-![][image3]  
+<img width="416" height="854" alt="Captura de pantalla 2026-06-03 234542" src="https://github.com/user-attachments/assets/6af81a15-e712-4c17-8dd1-6776bdc1b7b0" />
+
 Chatbot  
 ![][image4]  
 GPS  
