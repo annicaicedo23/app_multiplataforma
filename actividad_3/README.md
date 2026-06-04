@@ -8,7 +8,7 @@
 
 **Fecha:** 6 de junio de 2026
 
-
+**Modalidad:** Individual
 
 # Descripción del problema
 
