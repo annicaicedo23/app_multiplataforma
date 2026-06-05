@@ -215,4 +215,5 @@ Se optimizará para dispositivos Android de gama media y baja mediante interface
 Aunque existen riesgos asociados a la conectividad, el uso de servicios externos y las limitaciones de algunos dispositivos móviles, la propuesta incorpora mecanismos de mitigación que garantizan una experiencia de usuario estable y confiable. La combinación de almacenamiento local, sincronización inteligente y soporte mediante chatbot convierte a **AcadémIA Mobile** en una solución viable, escalable y adaptada a las necesidades del entorno educativo actual.
 
 # Videorespuesta
-**Enlace del video:**
+https://youtu.be/eR8MLS4hziU
+
